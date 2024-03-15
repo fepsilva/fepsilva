@@ -18,7 +18,7 @@ Hi! I am Fernando Silva!
 - 👩‍👧‍👦  &nbsp;&nbsp; Pai de 2 / Father of two.
 - 🚴  &nbsp;&nbsp; Ciclista Road & Gravel
 - 📧  &nbsp;&nbsp; fpsilva.ti@gmail.com
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fepsilva/)
+
 
 Professional with more than 20 years of experience in technology and currently working as a Solutions Architect, I have AWS Cloud Practitioner and AWS Architect Associate, PMP and SFPC certifications. I have worked as a Developer, Systems Analyst, Tech Lead, Project Manager, Scrum Master, Software Engineer and Solution Architect. I've designed solutions and delivered productive workloads on AWS and OnPremisses.
 I have experience for:
